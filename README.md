@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/skilled-e-learning-landing-page-yZW9D5ORAZ](https://www.frontendmentor.io/solutions/skilled-e-learning-landing-page-yZW9D5ORAZ)
+- Live Site URL: [https://skilled-elearning-landing-page-prj.netlify.app/](https://skilled-elearning-landing-page-prj.netlify.app/)
 
 ## My process
 
